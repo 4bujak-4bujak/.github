@@ -16,7 +16,7 @@
       <tr>
           <td align="center">
               <img src="https://avatars.githubusercontent.com/u/132210541?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
-              <a href="https://github.com/banghogu">@Bang HoJin</a>
+              <a href="https://github.com/banhogu">@Bang HoJin</a>
           </td>
           <td align="center">
               <img src="https://avatars.githubusercontent.com/u/104253583?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
